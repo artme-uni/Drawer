@@ -1,0 +1,17 @@
+1000x1000
+Triangle(-50, -100, 50, -100) [200, 250] {black}
+Circle(50) [200, 400] {red}
+Rectangle(100, 100) [200, 600] {lime}
+Triangle(-50, -100, 50, -100) [200, 850] {blue}
+Circle(50) [400, 200] {255, 255, 50}
+Rectangle(80, 80) [400, 400] {cyan}
+Triangle(-50, -100, 50, -100) [400, 650] {magenta}
+Circle(50) [400, 800] {silver}
+Rectangle(80, 80) [600, 200] {gray}
+Triangle(-50, -100, 50, -100) [600, 450] {maroon}
+Circle(50) [600, 600] {olive}
+Rectangle(80, 80) [600, 800] {green}
+Triangle(-50, -100, 50, -100) [800, 250] {purple}
+Circle(50) [800, 400] {teal}
+Rectangle(80, 80) [800, 600] {navy}
+Triangle(-50, -100, 50, -100) [800, 850] {230, 230, 230}
